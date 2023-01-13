@@ -1,0 +1,9 @@
+wt:问题
+qy:区域
+xx:选项
+cz:操作
+jg:结果
+zjmc:作者名称
+gynr:关于内容
+gjs:梗介绍
+githublj:GitHub链接

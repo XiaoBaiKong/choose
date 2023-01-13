@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">choose</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wt_a">如果你被人骂了，你甘心吗？</string>
+    <string name="wt_b">请选择你的回复方式:</string>
+    <string name="xx_a_1">甘心</string>
+    <string name="xx_a_2">不甘心</string>
+    <string name="xx_b_1">低情商</string>
+    <string name="xx_b_2">高情商</string>
+    <string name="cz_1">复制</string>
+    <string name="cz_2">退出</string>
+    <string name="jg_1">滚</string>
+    <string name="jg_2">远方传来风笛</string>
+    
+    <string name="zjmc">开发者:@空气kill</string>
+    <string name="gynr">这个软件是作者在学习安卓开发的时候随便写的，当时作者是个小白，所以大佬不喜勿喷，谢谢。\n这对于新手小白可能会有一点帮助，所以，我就将这些代码全部放到了GitHub上面，方便新手小白学习和我自己回顾。</string>
+    <string name="gjs">梗介绍:《远方传来风笛》@远方传来风笛 被大家亲切的称为“滚哥”，事情的由来大家可以去百度上搜一下就知道了。</string>
+    <string name="githublj">https://</string>
+
+</resources>
